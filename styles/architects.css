@@ -132,7 +132,10 @@ bottom: 100px;
 }
 .ten-years-badge p{
     font-size: 1.5rem;
-} 
+}
+.facts{
+    margin-top: 150px;
+}
 .facts-card-container{
     display: flex;
     justify-content: space-around;
@@ -178,7 +181,7 @@ width: 1440px;
 height: 100px;
 text-align: center;
 align-items: center;
-margin-left: 300px;
+margin-left: 700px;
 }
 
 
